@@ -1,0 +1,67 @@
+{
+  "CultureColorHex": "#CDD6FC",
+  "NameOrder": "FirstNameFirst",
+  "PoliticalSystems": [],
+  "PoliticalSystemProbabilities": {
+    "Kingdom": 95.0,
+    "Empire": 30.0,
+    "Federation": 50.0,
+    "Republic": 5.0,
+    "Tribal": 40.0,
+    "Theocracy": 55.0
+  },
+  "EthnicAttributeProbabilities": {
+    "FishAndHunting": 90.0,
+    "Agriculture": 40.0,
+    "Nomadic": 10.0,
+    "Maritime": 0.0,
+    "Commercial": 60.0
+  },
+  "TraitProbabilities": {
+    "FightToTheEnd": 70.0,
+    "StrengthenCore": 80.0,
+    "ManifestDestiny": 25.0,
+    "BullyTheWeak": 30.0,
+    "DefyTheStrong": 75.0,
+    "TotalWar": 30.0,
+    "WellTrained": 85.0,
+    "CoreDefense": 90.0,
+    "CavalryTradition": 15.0,
+    "HomelandDefense": 100.0,
+    "Conqueror": 20.0,
+    "SiegeCapture": 20.0,
+    "FieldCombatElite": 70.0
+  },
+  "CultureDescriptionTranslations": [
+    "莱法芙是古老的林中王国，以独特的森林管理、精锐弓箭手及草药学闻名。王室与林地领主共治，经济依赖林业、草药与狩猎。",
+    "Leffathou is an ancient forest kingdom, renowned for its unique forest management, elite archers, and herbalism. Royalty and forest lords co-rule, and the economy relies on forestry, herbs, and hunting.",
+    "萊法芙是古老的林中王國，以獨特的森林管理、精銳弓箭手及草藥學聞名。王室與林地領主共治，經濟依賴林業、草藥與狩獵。",
+    "Леффату — это древнее лесное королевство, известное своим уникальным управлением лесами, элитными лучниками и траволечением. Королевская власть и лесные лорды правят совместно, а экономика зависит от лесного хозяйства, трав и охоты.",
+    "Leffathou es un antiguo reino forestal, renombrado por su singular gestión forestal, arqueros de élite y herboristería. La realeza y los señores del bosque co-gobiernan, y la economía se basa en la silvicultura, las hierbas y la caza.",
+    "Leffathou é um antigo reino florestal, renomado por seu manejo florestal único, arqueiros de elite e herbalismo. A realeza e os senhores da floresta co-governam, e a economia depende da silvicultura, ervas e caça.",
+    "Leffathou ist ein altes Waldkönigreich, bekannt für seine einzigartige Waldbewirtschaftung, Elitebogenschützen und Kräuterkunde. Königtum und Waldfürsten regieren gemeinsam, und die Wirtschaft stützt sich auf Forstwirtschaft, Kräuter und Jagd.",
+    "レファソウは古代の森の王国であり、独自の森林管理、精鋭の射手、薬草学で名高い。王室と森林領主が共同統治し、経済は林業、薬草、狩猟に依存している。",
+    "Leffathou est un ancien royaume forestier, réputé pour sa gestion forestière unique, ses archers d'élite et son herboristerie. La royauté et les seigneurs forestiers co-gouvernent, et l'économie repose sur la sylviculture, les herbes et la chasse.",
+    "Leffathou to starożytne leśne królestwo, znane z unikalnego zarządzania lasami, elitarnych łuczników i zielarstwa. Współrządzą królowie i leśni władcy, a gospodarka opiera się na leśnictwie, ziołach i łowiectwie.",
+    "Leffathou es un antiguo reino forestal, renombrado por su singular gestión forestal, arqueros de élite y herboristería. La realeza y los señores del bosque co-gobiernan, y la economía se basa en la silvicultura, las hierbas y la caza.",
+    "Leffathou é um antigo reino florestal, de renome pela sua gestão florestal única, arqueiros de elite e herbalismo. A realeza e os senhores da floresta co-governam, e a economia depende da silvicultura, ervas e caça.",
+    "레파푸는 독특한 산림 관리, 정예 궁수, 약초학으로 유명한 고대 숲의 왕국입니다. 왕족과 삼림 영주가 공동으로 통치하며 경제는 임업, 약초, 사냥에 의존합니다.",
+    "Leffathou, eşsiz orman yönetimi, seçkin okçuları ve şifalı bitki uzmanlığıyla tanınan kadim bir orman krallığıdır. Kraliyet ailesi ve orman lordları birlikte hüküm sürer ve ekonomi ormancılığa, şifalı bitkilere ve avcılığa dayanır."
+  ],
+  "MapCultureTranslations": [
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive"
+  ]
+}

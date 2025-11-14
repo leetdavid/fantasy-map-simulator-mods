@@ -1,0 +1,32 @@
+{
+  "religions": [
+    {
+      "name": "Blue Archive",
+      "colorHex": "#C6B9C1",
+      "description": "BlueArchiveDescription",
+      "holyBookName": "BlueArchiveHolyBook",
+      "practices": []
+    },
+    {
+      "name": "Abydos",
+      "colorHex": "#BC80BD",
+      "description": "AbydosDescription",
+      "holyBookName": "AbydosHolyBook",
+      "practices": []
+    },
+    {
+      "name": "Trinity",
+      "colorHex": "#FF9FAF",
+      "description": "TrinityDescription",
+      "holyBookName": "TrinityHolyBook",
+      "practices": []
+    },
+    {
+      "name": "Gehenna",
+      "colorHex": "#FB8072",
+      "description": "GehennaDescription",
+      "holyBookName": "GehennaHolyBook",
+      "practices": []
+    }
+  ]
+}

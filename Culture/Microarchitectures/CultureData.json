@@ -1,0 +1,67 @@
+{
+  "CultureColorHex": "#80b1d3",
+  "NameOrder": "FirstNameFirst",
+  "PoliticalSystems": [],
+  "PoliticalSystemProbabilities": {
+    "Kingdom": 44.48819,
+    "Empire": 34.3157845,
+    "Federation": 51.2383537,
+    "Republic": 61.212307,
+    "Tribal": 4.847539,
+    "Theocracy": 20.0
+  },
+  "EthnicAttributeProbabilities": {
+    "FishAndHunting": 27.5487,
+    "Agriculture": 91.36174,
+    "Nomadic": 16.8705444,
+    "Maritime": 33.5142136,
+    "Commercial": 70.3418
+  },
+  "TraitProbabilities": {
+    "FightToTheEnd": 53.5946655,
+    "StrengthenCore": 80.54868,
+    "ManifestDestiny": 75.2268753,
+    "BullyTheWeak": 68.24984,
+    "DefyTheStrong": 71.8245544,
+    "TotalWar": 30.0,
+    "WellTrained": 73.47972,
+    "CoreDefense": 67.31881,
+    "CavalryTradition": 15.3877821,
+    "HomelandDefense": 85.77858,
+    "Conqueror": 85.72111,
+    "SiegeCapture": 78.22684,
+    "FieldCombatElite": 30.1004257
+  },
+  "CultureDescriptionTranslations": [
+    "莱斯索斯是强大的草原游牧联盟，以精锐骑兵与皮革、金属工艺闻名。社会由军事贵族与部落长老主导，掌控畜牧经济与商路。",
+    "Microarchitectures are a technical and engineering-loving people.",
+    "萊斯索斯是強大的草原游牧聯盟，以精銳騎兵與皮革、金屬工藝聞名。社會由軍事貴族與部落長老主導，掌控畜牧經濟与商路。",
+    "Вристос — это могущественный союз кочевников степей, известный своей элитной кавалерией и мастерством в обработке кожи и металла. Общество контролируется военной знатью и племенными старейшинами, которые управляют пастбищным хозяйством и торговыми путями.",
+    "Wristhos es una poderosa alianza nómada de las praderas, renombrada por su caballería de élite y su artesanía en cuero y metal. La sociedad está dominada por la nobleza militar y los ancianos tribales, que controlan la economía pastoral y las rutas comerciales.",
+    "Wristhos é uma poderosa aliança nômade das estepes, renomada por sua cavalaria de elite e seu artesanato em couro e metal. A sociedade é dominada pela nobreza militar e pelos anciãos tribais, que controlam a economia pastoral e as rotas comerciais.",
+    "Wristhos ist eine mächtige nomadische Allianz des Graslandes, bekannt für ihre Elitekavallerie und ihre Handwerkskunst in Leder und Metall. Die Gesellschaft wird von militärischem Adel und Stammesältesten dominiert, die die Weidewirtschaft und Handelsrouten kontrollieren.",
+    "ライストソスは強力な草原の遊牧民同盟であり、精鋭な騎兵隊と皮革・金属工芸で名高い。社会は軍事貴族と部族の長老によって主導され、牧畜経済と交易路を掌握している。",
+    "Wristhos est une puissante alliance nomade des prairies, renommée pour sa cavalerie d'élite et son artisanat du cuir et du métal. La société est dominée par la noblesse militaire et les anciens des tribus, qui contrôlent l'économie pastorale et les routes commerciales.",
+    "Wristhos to potężny sojusz nomadów z pastwisk, znany z elitarnej kawalerii oraz rzemiosła skórzanego i metalowego. Społeczeństwo jest zdominowane przez arystokrację wojskową i starszyznę plemienną, kontrolującą gospodarkę pasterską i szlaki handlowe.",
+    "Wristhos es una poderosa alianza nómada de las praderas, renombrada por su caballería de élite y su artesanía en cuero y metal. La sociedad está dominada por la nobleza militar y los ancianos tribales, que controlan la economía pastoral y las rutas comerciales.",
+    "Wristhos é uma poderosa aliança nómada das pradarias, de renome pela sua cavalaria de elite e pelo seu artesanato em couro e metal. A sociedade é dominada pela nobreza militar e pelos anciãos tribais, que controlam a economia pastoral e as rotas comerciais.",
+    "라이스토스는 강력한 초원 유목 연맹으로, 정예 기병대와 가죽 및 금속 공예로 유명합니다. 사회는 군사 귀족과 부족 장로들이 주도하며 목축 경제와 교역로를 장악하고 있습니다.",
+    "Wristhos, seçkin süvarileri ve deri ile metal işçiliğiyle tanınan güçlü bir bozkır göçebe ittifakıdır. Toplum, pastoral ekonomiyi ve ticaret yollarını kontrol eden askeri soylular ve kabile büyükleri tarafından yönetilir."
+  ],
+  "MapCultureTranslations": [
+    "莱斯索斯",
+    "Microarchitectures",
+    "萊斯索斯",
+    "Вристос",
+    "Wristhos",
+    "Wristhos",
+    "Wristhos",
+    "ライストソス",
+    "Wristhos",
+    "Wristhos",
+    "Wristhos",
+    "Wristhos",
+    "라이스토스",
+    "Wristhos"
+  ]
+}
