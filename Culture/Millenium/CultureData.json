@@ -1,0 +1,67 @@
+{
+  "CultureColorHex": "#CDD6FC",
+  "NameOrder": "FirstNameFirst",
+  "PoliticalSystems": [],
+  "PoliticalSystemProbabilities": {
+    "Kingdom": 60.0,
+    "Empire": 40.0,
+    "Federation": 50.0,
+    "Republic": 50.0,
+    "Tribal": 1.0,
+    "Theocracy": 50.0
+  },
+  "EthnicAttributeProbabilities": {
+    "FishAndHunting": 10.0,
+    "Agriculture": 80.0,
+    "Nomadic": 10.0,
+    "Maritime": 50.0,
+    "Commercial": 60.0
+  },
+  "TraitProbabilities": {
+    "FightToTheEnd": 70.0,
+    "StrengthenCore": 80.0,
+    "ManifestDestiny": 25.0,
+    "BullyTheWeak": 30.0,
+    "DefyTheStrong": 75.0,
+    "TotalWar": 30.0,
+    "WellTrained": 85.0,
+    "CoreDefense": 90.0,
+    "CavalryTradition": 15.0,
+    "HomelandDefense": 100.0,
+    "Conqueror": 20.0,
+    "SiegeCapture": 20.0,
+    "FieldCombatElite": 70.0
+  },
+  "CultureDescriptionTranslations": [
+    "千禧科学学园是基沃托斯最大的学校之一，专注于STEM教育和科技进步。学校由名为研讨会的学生会领导，以其先进的科技研究和开发而闻名。",
+    "Millenium Science School is one of the largest schools in Kivotos, focusing on STEM education and technological advancement. It is led by the student council known as Seminar, renowned for its advanced technological research and development.",
+    "千禧科學學園是基沃托斯最大的學校之一，專注於STEM教育和科技進步。學校由名為研討會的學生會領導，以其先進的科技研究和開發而聞名。",
+    "Научная школа Миллениум — одна из крупнейших школ в Кивотосе, специализирующаяся на STEM-образовании и технологическом прогрессе. Ею руководит студенческий совет, известный как Семинар, прославившийся своими передовыми технологическими исследованиями и разработками.",
+    "La Escuela de Ciencias Millenium es una de las escuelas más grandes de Kivotos, centrada en la educación STEM y el avance tecnológico. Está dirigida por el consejo estudiantil conocido como Seminario, reconocido por su avanzada investigación y desarrollo tecnológico.",
+    "A Escola de Ciências Millenium é uma das maiores escolas de Kivotos, focada em educação STEM e avanço tecnológico. É liderada pelo conselho estudantil conhecido como Seminário, renomado por sua pesquisa e desenvolvimento tecnológico avançado.",
+    "Die Millenium Science School ist eine der größten Schulen in Kivotos und konzentriert sich auf MINT-Bildung und technologischen Fortschritt. Sie wird vom Schülerrat geleitet, der als Seminar bekannt ist und für seine fortgeschrittene technologische Forschung und Entwicklung berühmt ist.",
+    "ミレニアムサイエンススクールはキヴォトス最大の学校の一つで、STEM教育と技術進歩に焦点を当てています。セミナーとして知られる生徒会によって率いられ、先進的な技術研究と開発で知られています。",
+    "L'École des Sciences Millenium est l'une des plus grandes écoles de Kivotos, axée sur l'éducation STEM et l'avancement technologique. Elle est dirigée par le conseil étudiant connu sous le nom de Séminaire, réputé pour sa recherche et son développement technologique avancés.",
+    "Szkoła Naukowa Millenium jest jedną z największych szkół w Kivotos, skupiającą się na edukacji STEM i postępie technologicznym. Jest prowadzona przez radę studencką znaną jako Seminarium, słynącą z zaawansowanych badań technologicznych i rozwoju.",
+    "La Escuela de Ciencias Millenium es una de las escuelas más grandes de Kivotos, centrada en la educación STEM y el avance tecnológico. Está dirigida por el consejo estudiantil conocido como Seminario, reconocido por su avanzada investigación y desarrollo tecnológico.",
+    "A Escola de Ciências Millenium é uma das maiores escolas de Kivotos, focada em educação STEM e avanço tecnológico. É liderada pelo conselho estudantil conhecido como Seminário, renomado por sua pesquisa e desenvolvimento tecnológico avançado.",
+    "밀레니엄 사이언스 스쿨은 키보토스에서 가장 큰 학교 중 하나로, STEM 교육과 기술 발전에 중점을 둡니다. 세미나로 알려진 학생회가 이끌며, 첨단 기술 연구 및 개발로 유명합니다.",
+    "Millenium Bilim Okulu, Kivotos'taki en büyük okullardan biridir ve STEM eğitimi ve teknolojik ilerlemeye odaklanır. Seminer olarak bilinen öğrenci konseyi tarafından yönetilir ve gelişmiş teknolojik araştırma ve geliştirme ile tanınır."
+  ],
+  "MapCultureTranslations": [
+    "Millenium",
+    "Millenium",
+    "Millenium",
+    "Millenium",
+    "Millenium",
+    "Millenium",
+    "Millenium",
+    "Millenium",
+    "Millenium",
+    "Millenium",
+    "Millenium",
+    "Millenium",
+    "Millenium",
+    "Millenium"
+  ]
+}

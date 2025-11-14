@@ -1,0 +1,67 @@
+{
+  "CultureColorHex": "#E8D4C4",
+  "NameOrder": "FirstNameFirst",
+  "PoliticalSystems": [],
+  "PoliticalSystemProbabilities": {
+    "Kingdom": 70.0,
+    "Empire": 30.0,
+    "Federation": 40.0,
+    "Republic": 30.0,
+    "Tribal": 1.0,
+    "Theocracy": 80.0
+  },
+  "EthnicAttributeProbabilities": {
+    "FishAndHunting": 5.0,
+    "Agriculture": 70.0,
+    "Nomadic": 5.0,
+    "Maritime": 30.0,
+    "Commercial": 50.0
+  },
+  "TraitProbabilities": {
+    "FightToTheEnd": 60.0,
+    "StrengthenCore": 75.0,
+    "ManifestDestiny": 30.0,
+    "BullyTheWeak": 20.0,
+    "DefyTheStrong": 50.0,
+    "TotalWar": 25.0,
+    "WellTrained": 80.0,
+    "CoreDefense": 85.0,
+    "CavalryTradition": 20.0,
+    "HomelandDefense": 90.0,
+    "Conqueror": 15.0,
+    "SiegeCapture": 15.0,
+    "FieldCombatElite": 65.0
+  },
+  "CultureDescriptionTranslations": [
+    "三一综合学园是基沃托斯最负盛名的贵族学园，以优雅的礼仪、深厚的传统和严格的纪律而闻名。学园由茶会管理，强调荣誉、责任和优雅的生活方式。",
+    "Trinity General School is the most prestigious aristocratic academy in Kivotos, renowned for its elegant etiquette, deep traditions, and strict discipline. The academy is governed by the Tea Party, emphasizing honor, duty, and an elegant way of life.",
+    "三一綜合學園是基沃托斯最負盛名的貴族學園，以優雅的禮儀、深厚的傳統和嚴格的紀律而聞名。學園由茶會管理，強調榮譽、責任和優雅的生活方式。",
+    "Тринити — самая престижная аристократическая академия в Кивотосе, известная своим элегантным этикетом, глубокими традициями и строгой дисциплиной. Академией управляет Чайная вечеринка, подчеркивая честь, долг и элегантный образ жизни.",
+    "Trinity General School es la academia aristocrática más prestigiosa de Kivotos, reconocida por su elegante etiqueta, profundas tradiciones y estricta disciplina. La academia está gobernada por el Tea Party, enfatizando el honor, el deber y una forma de vida elegante.",
+    "Trinity General School é a academia aristocrática mais prestigiosa de Kivotos, renomada por sua etiqueta elegante, tradições profundas e disciplina rigorosa. A academia é governada pelo Tea Party, enfatizando honra, dever e um modo de vida elegante.",
+    "Trinity General School ist die renommierteste aristokratische Akademie in Kivotos, bekannt für ihre elegante Etikette, tiefe Traditionen und strenge Disziplin. Die Akademie wird vom Tea Party regiert und betont Ehre, Pflicht und eine elegante Lebensweise.",
+    "トリニティ総合学園はキヴォトスで最も名高い貴族学園であり、優雅な礼儀作法、深い伝統、厳格な規律で知られています。学園は茶会によって統治され、名誉、義務、優雅な生活様式を強調しています。",
+    "Trinity General School est l'académie aristocratique la plus prestigieuse de Kivotos, réputée pour son étiquette élégante, ses traditions profondes et sa discipline stricte. L'académie est gouvernée par le Tea Party, mettant l'accent sur l'honneur, le devoir et un mode de vie élégant.",
+    "Trinity General School to najbardziej prestiżowa arystokratyczna akademia w Kivotos, znana ze swojej eleganckiej etykiety, głębokich tradycji i surowej dyscypliny. Akademią zarządza Tea Party, kładąc nacisk na honor, obowiązek i elegancki styl życia.",
+    "Trinity General School es la academia aristocrática más prestigiosa de Kivotos, reconocida por su elegante etiqueta, profundas tradiciones y estricta disciplina. La academia está gobernada por el Tea Party, enfatizando el honor, el deber y una forma de vida elegante.",
+    "Trinity General School é a academia aristocrática mais prestigiosa de Kivotos, renomada por sua etiqueta elegante, tradições profundas e disciplina rigorosa. A academia é governada pelo Tea Party, enfatizando honra, dever e um modo de vida elegante.",
+    "트리니티 종합학원은 키보토스에서 가장 명망 있는 귀족 학원으로, 우아한 예의, 깊은 전통, 엄격한 규율로 유명합니다. 학원은 티 파티가 관리하며, 명예, 의무, 우아한 생활 방식을 강조합니다.",
+    "Trinity General School, Kivotos'taki en prestijli aristokratik akademidir ve zarif görgü kuralları, derin gelenekler ve katı disipliniyle tanınır. Akademi, Çay Partisi tarafından yönetilir ve onur, görev ve zarif bir yaşam tarzını vurgular."
+  ],
+  "MapCultureTranslations": [
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive"
+  ]
+}

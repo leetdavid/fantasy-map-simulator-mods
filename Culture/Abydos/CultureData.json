@@ -1,0 +1,67 @@
+{
+  "CultureColorHex": "#CDD6FC",
+  "NameOrder": "LastNameFirst",
+  "PoliticalSystems": [],
+  "PoliticalSystemProbabilities": {
+    "Kingdom": 60.0,
+    "Empire": 40.0,
+    "Federation": 50.0,
+    "Republic": 50.0,
+    "Tribal": 1.0,
+    "Theocracy": 50.0
+  },
+  "EthnicAttributeProbabilities": {
+    "FishAndHunting": 10.0,
+    "Agriculture": 80.0,
+    "Nomadic": 10.0,
+    "Maritime": 50.0,
+    "Commercial": 60.0
+  },
+  "TraitProbabilities": {
+    "FightToTheEnd": 70.0,
+    "StrengthenCore": 80.0,
+    "ManifestDestiny": 25.0,
+    "BullyTheWeak": 30.0,
+    "DefyTheStrong": 75.0,
+    "TotalWar": 30.0,
+    "WellTrained": 85.0,
+    "CoreDefense": 90.0,
+    "CavalryTradition": 15.0,
+    "HomelandDefense": 100.0,
+    "Conqueror": 20.0,
+    "SiegeCapture": 20.0,
+    "FieldCombatElite": 70.0
+  },
+  "CultureDescriptionTranslations": [
+    "阿拜多斯是位于荒芜沙漠中的坚韧学园，以顽强的意志和坚定的决心而闻名。尽管面临财政困难和债务危机，学生自治会与总学生会共同治理，展现出不屈不挠的精神。",
+    "(Abydos, General Student Council, SRT, Valkyrie) Abydos is a resilient academy located in the desolate desert, renowned for its indomitable will and unwavering determination. Despite facing financial hardship and debt crises, the student council and General Student Council co-govern, demonstrating an unyielding spirit.",
+    "阿拜多斯是位於荒蕪沙漠中的堅韌學園，以頑強的意志和堅定的決心而聞名。儘管面臨財政困難和債務危機，學生自治會與總學生會共同治理，展現出不屈不撓的精神。",
+    "Абидос — это стойкая академия, расположенная в пустынной пустоши, известная своей несгибаемой волей и непоколебимой решимостью. Несмотря на финансовые трудности и долговые кризисы, студенческий совет и Генеральный студенческий совет совместно управляют, демонстрируя непоколебимый дух.",
+    "Abydos es una academia resistente ubicada en el desierto desolado, renombrada por su voluntad indomable y determinación inquebrantable. A pesar de enfrentar dificultades financieras y crisis de deuda, el consejo estudiantil y el Consejo General de Estudiantes co-gobiernan, demostrando un espíritu inquebrantable.",
+    "(Abydos, General Student Council, SRT, Vesta) Abydos é uma academia resiliente localizada no deserto desolado, renomada por sua vontade indomável e determinação inabalável. Apesar de enfrentar dificuldades financeiras e crises de dívida, o conselho estudantil e o Conselho Geral de Estudantes co-governam, demonstrando um espírito inabalável.",
+    "Abydos ist eine widerstandsfähige Akademie in der öden Wüste, bekannt für ihren unbeugsamen Willen und ihre unerschütterliche Entschlossenheit. Trotz finanzieller Schwierigkeiten und Schuldenkrisen regieren der Schülerrat und der Allgemeine Schülerrat gemeinsam und zeigen einen unnachgiebigen Geist.",
+    "アビドスは荒廃した砂漠に位置する不屈の学園であり、不屈の意志と揺るぎない決意で知られている。財政難と債務危機に直面しているにもかかわらず、生徒会と総生徒会が共同統治し、不屈の精神を示している。",
+    "Abydos est une académie résiliente située dans le désert désolé, réputée pour sa volonté indomptable et sa détermination inébranlable. Malgré les difficultés financières et les crises de la dette, le conseil étudiant et le Conseil général des étudiants co-gouvernent, démontrant un esprit inflexible.",
+    "Abydos to odporna akademia położona na pustynnej pustkowi, znana ze swojej niezłomnej woli i niezachwianej determinacji. Pomimo trudności finansowych i kryzysów zadłużenia, rada studencka i Ogólna Rada Studencka współrządzą, wykazując niezłomnego ducha.",
+    "Abydos es una academia resistente ubicada en el desierto desolado, renombrada por su voluntad indomable y determinación inquebrantable. A pesar de enfrentar dificultades financieras y crisis de deuda, el consejo estudiantil y el Consejo General de Estudiantes co-gobiernan, demostrando un espíritu inquebrantable.",
+    "Abydos é uma academia resiliente localizada no deserto desolado, de renome pela sua vontade indomável e determinação inabalável. Apesar de enfrentar dificuldades financeiras e crises de dívida, o conselho estudantil e o Conselho Geral de Estudantes co-governam, demonstrando um espírito inabalável.",
+    "아비도스는 황량한 사막에 위치한 불굴의 학원으로, 불굴의 의지와 흔들림 없는 결심으로 유명합니다. 재정적 어려움과 부채 위기에 직면했음에도 불구하고, 학생회와 총학생회가 공동으로 통치하며 불굴의 정신을 보여줍니다.",
+    "Abydos, çorak çölde bulunan dirençli bir akademidir ve boyun eğmez iradesi ve sarsılmaz kararlılığıyla tanınır. Mali zorluklar ve borç krizleriyle karşılaşmasına rağmen, öğrenci konseyi ve Genel Öğrenci Konseyi birlikte yönetir ve boyun eğmez bir ruh sergiler."
+  ],
+  "MapCultureTranslations": [
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "CultureColorHex": "#FF4444",
+  "NameOrder": "FirstNameFirst",
+  "PoliticalSystems": [],
+  "PoliticalSystemProbabilities": {
+    "Kingdom": 30.0,
+    "Empire": 70.0,
+    "Federation": 20.0,
+    "Republic": 10.0,
+    "Tribal": 80.0,
+    "Theocracy": 5.0
+  },
+  "EthnicAttributeProbabilities": {
+    "FishAndHunting": 40.0,
+    "Agriculture": 30.0,
+    "Nomadic": 60.0,
+    "Maritime": 20.0,
+    "Commercial": 40.0
+  },
+  "TraitProbabilities": {
+    "FightToTheEnd": 95.0,
+    "StrengthenCore": 50.0,
+    "ManifestDestiny": 80.0,
+    "BullyTheWeak": 90.0,
+    "DefyTheStrong": 100.0,
+    "TotalWar": 85.0,
+    "WellTrained": 60.0,
+    "CoreDefense": 40.0,
+    "CavalryTradition": 50.0,
+    "HomelandDefense": 70.0,
+    "Conqueror": 90.0,
+    "SiegeCapture": 75.0,
+    "FieldCombatElite": 80.0
+  },
+  "CultureDescriptionTranslations": [
+    "盖乌斯是混乱无序的学园，以破坏规则和崇尚自由而闻名。学生自治会与潘多魔尼乌姆学会共同治理，展现出不羁的叛逆精神和激进的战斗风格。",
+    "Gehenna is a chaotic and lawless academy, renowned for breaking rules and championing freedom. The Prefect Team and Pandemonium Society co-govern, demonstrating unruly rebellious spirit and aggressive combat style.",
+    "蓋烏斯是混亂無序的學園，以破壞規則和崇尚自由而聞名。學生自治會與潘多魔尼烏姆學會共同治理，展現出不羈的叛逆精神和激進的戰鬥風格。",
+    "Геенна — это хаотичная и беззаконная академия, известная нарушением правил и отстаиванием свободы. Команда префектов и Общество Пандемония совместно управляют, демонстрируя необузданный бунтарский дух и агрессивный боевой стиль.",
+    "Gehenna es una academia caótica y sin ley, renombrada por romper reglas y defender la libertad. El Equipo de Prefectos y la Sociedad Pandemonio co-gobiernan, demostrando un espíritu rebelde indómito y un estilo de combate agresivo.",
+    "Gehenna é uma academia caótica e sem lei, renomada por quebrar regras e defender a liberdade. A Equipe de Prefeitos e a Sociedade Pandemônio co-governam, demonstrando um espírito rebelde indomável e um estilo de combate agressivo.",
+    "Gehenna ist eine chaotische und gesetzlose Akademie, bekannt für das Brechen von Regeln und das Eintreten für Freiheit. Das Präfektenteam und die Pandemonium-Gesellschaft regieren gemeinsam und zeigen einen ungezügelten rebellischen Geist und einen aggressiven Kampfstil.",
+    "ゲヘナは混沌とした無法地帯の学園であり、規則を破り自由を擁護することで知られている。風紀委員会とパンデモニウム協会が共同統治し、手に負えない反逆精神と攻撃的な戦闘スタイルを示している。",
+    "Gehenna est une académie chaotique et sans loi, réputée pour enfreindre les règles et défendre la liberté. L'Équipe des Préfets et la Société Pandémonium co-gouvernent, démontrant un esprit rebelle indomptable et un style de combat agressif.",
+    "Gehenna to chaotyczna i bezprawna akademia, znana z łamania zasad i obrony wolności. Zespół Prefektów i Towarzystwo Pandemonium współrządzą, wykazując nieokiełznanego ducha buntu i agresywny styl walki.",
+    "Gehenna es una academia caótica y sin ley, renombrada por romper reglas y defender la libertad. El Equipo de Prefectos y la Sociedad Pandemonio co-gobiernan, demostrando un espíritu rebelde indómito y un estilo de combate agresivo.",
+    "Gehenna é uma academia caótica e sem lei, de renome por quebrar regras e defender a liberdade. A Equipe de Prefeitos e a Sociedade Pandemônio co-governam, demonstrando um espírito rebelde indomável e um estilo de combate agressivo.",
+    "게헨나는 혼란스럽고 무법지대인 학원으로, 규칙을 깨고 자유를 옹호하는 것으로 유명합니다. 기풍위원회와 판데모니움 협회가 공동으로 통치하며, 억제할 수 없는 반항 정신과 공격적인 전투 스타일을 보여줍니다.",
+    "Gehenna, kuralları çiğnemesi ve özgürlüğü savunmasıyla tanınan kaotik ve kanunsuz bir akademidir. Müfettiş Ekibi ve Pandemonium Derneği birlikte yönetir ve dizginlenemez bir isyankar ruh ve saldırgan bir savaş tarzı sergiler."
+  ],
+  "MapCultureTranslations": [
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive"
+  ]
+}

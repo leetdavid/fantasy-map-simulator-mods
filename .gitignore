@@ -1,8 +1,9 @@
 *
 
-!/.gitignore
+!.gitignore
+!README.md
 
-
-!Culture/Blue Archive
-
-!Religion/Blue Archive
+!Culture/Abydos/
+!Culture/Gehenna/
+!Culture/Hyakkiyako-Shanhaijing/
+!Culture/Millenium/
