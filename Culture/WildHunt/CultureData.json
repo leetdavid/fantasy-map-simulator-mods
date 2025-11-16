@@ -1,0 +1,67 @@
+{
+  "CultureColorHex": "#9B59B6",
+  "NameOrder": "FirstNameFirst",
+  "PoliticalSystems": [],
+  "PoliticalSystemProbabilities": {
+    "Kingdom": 60.0,
+    "Empire": 40.0,
+    "Federation": 50.0,
+    "Republic": 80.0,
+    "Tribal": 10.0,
+    "Theocracy": 30.0
+  },
+  "EthnicAttributeProbabilities": {
+    "FishAndHunting": 20.0,
+    "Agriculture": 50.0,
+    "Nomadic": 15.0,
+    "Maritime": 40.0,
+    "Commercial": 95.0
+  },
+  "TraitProbabilities": {
+    "FightToTheEnd": 30.0,
+    "StrengthenCore": 60.0,
+    "ManifestDestiny": 25.0,
+    "BullyTheWeak": 10.0,
+    "DefyTheStrong": 40.0,
+    "TotalWar": 15.0,
+    "WellTrained": 70.0,
+    "CoreDefense": 65.0,
+    "CavalryTradition": 30.0,
+    "HomelandDefense": 75.0,
+    "Conqueror": 20.0,
+    "SiegeCapture": 35.0,
+    "FieldCombatElite": 40.0
+  },
+  "CultureDescriptionTranslations": [
+    "狂猎艺术学院是一所专注于培养艺术人才的学府，以其丰富的文化底蕴和创新精神闻名。学生们在音乐、美术、戏剧等领域接受专业训练，展现出卓越的创造力和艺术表现力。",
+    "Wild Hunt Academy of Arts is an institution dedicated to cultivating artistic talents, renowned for its rich cultural heritage and innovative spirit. Students receive professional training in music, fine arts, theater, and other fields, demonstrating exceptional creativity and artistic expression.",
+    "狂獵藝術學院是一所專注於培養藝術人才的學府，以其豐富的文化底蘊和創新精神聞名。學生們在音樂、美術、戲劇等領域接受專業訓練，展現出卓越的創造力和藝術表現力。",
+    "Академия искусств Дикая Охота — это учреждение, посвященное развитию художественных талантов, известное своим богатым культурным наследием и инновационным духом. Студенты получают профессиональную подготовку в музыке, изобразительном искусстве, театре и других областях, демонстрируя исключительное творчество и художественное самовыражение.",
+    "La Academia de las Artes Wild Hunt es una institución dedicada al cultivo de talentos artísticos, reconocida por su rico patrimonio cultural y espíritu innovador. Los estudiantes reciben formación profesional en música, bellas artes, teatro y otros campos, demostrando una creatividad y expresión artística excepcionales.",
+    "A Academia das Artes Wild Hunt é uma instituição dedicada ao cultivo de talentos artísticos, renomada por seu rico patrimônio cultural e espírito inovador. Os estudantes recebem treinamento profissional em música, belas artes, teatro e outros campos, demonstrando criatividade e expressão artística excepcionais.",
+    "Die Wild Hunt Academy of Arts ist eine Einrichtung, die sich der Förderung künstlerischer Talente widmet und für ihr reiches kulturelles Erbe und ihren innovativen Geist bekannt ist. Die Studenten erhalten professionelle Ausbildung in Musik, bildender Kunst, Theater und anderen Bereichen und zeigen außergewöhnliche Kreativität und künstlerischen Ausdruck.",
+    "ワイルドハント芸術学院は芸術的才能の育成に特化した学府であり、豊かな文化的遺産と革新的精神で知られている。学生たちは音楽、美術、演劇などの分野で専門的な訓練を受け、卓越した創造性と芸術的表現力を示している。",
+    "L'Académie des Arts Wild Hunt est une institution dédiée au développement de talents artistiques, réputée pour son riche patrimoine culturel et son esprit innovateur. Les étudiants reçoivent une formation professionnelle en musique, beaux-arts, théâtre et autres domaines, démontrant une créativité et une expression artistique exceptionnelles.",
+    "Akademia Sztuk Wild Hunt to instytucja poświęcona rozwijaniu talentów artystycznych, znana z bogatego dziedzictwa kulturowego i innowacyjnego ducha. Studenci otrzymują profesjonalne szkolenie w muzyce, sztukach pięknych, teatrze i innych dziedzinach, wykazując wyjątkową kreatywność i ekspresję artystyczną.",
+    "La Academia de las Artes Wild Hunt es una institución dedicada al cultivo de talentos artísticos, reconocida por su rico patrimonio cultural y espíritu innovador. Los estudiantes reciben formación profesional en música, bellas artes, teatro y otros campos, demostrando una creatividad y expresión artística excepcionales.",
+    "A Academia das Artes Wild Hunt é uma instituição dedicada ao cultivo de talentos artísticos, de renome pelo seu rico património cultural e espírito inovador. Os estudantes recebem formação profissional em música, belas artes, teatro e outros campos, demonstrando criatividade e expressão artística excepcionais.",
+    "와일드헌트 예술학원은 예술적 재능 육성에 전념하는 학부로, 풍부한 문화적 유산과 혁신 정신으로 유명합니다. 학생들은 음악, 미술, 연극 등의 분야에서 전문적인 훈련을 받으며, 뛰어난 창의성과 예술적 표현력을 보여줍니다.",
+    "Wild Hunt Sanat Akademisi, sanatsal yeteneklerin geliştirilmesine adanmış, zengin kültürel mirası ve yenilikçi ruhuyla tanınan bir kurumdur. Öğrenciler müzik, güzel sanatlar, tiyatro ve diğer alanlarda profesyonel eğitim alarak olağanüstü yaratıcılık ve sanatsal ifade sergilerler."
+  ],
+  "MapCultureTranslations": [
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive"
+  ]
+}

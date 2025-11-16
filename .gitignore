@@ -3,7 +3,22 @@
 !.gitignore
 !README.md
 
+!Culture/
 !Culture/Abydos/
+!Culture/Abydos/**
 !Culture/Gehenna/
-!Culture/Hyakkiyako-Shanhaijing/
+!Culture/Gehenna/**
+!Culture/GeneralStudentCouncil/
+!Culture/GeneralStudentCouncil/**
+!Culture/Hyakkiyako/
+!Culture/Hyakkiyako/**
 !Culture/Millenium/
+!Culture/Millenium/**
+!Culture/RedWinter/
+!Culture/RedWinter/**
+!Culture/Shanhaijing/
+!Culture/Shanhaijing/**
+!Culture/Trinity/
+!Culture/Trinity/**
+!Culture/WildHunt/
+!Culture/WildHunt/**

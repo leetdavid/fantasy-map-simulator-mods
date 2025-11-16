@@ -1,0 +1,67 @@
+{
+  "CultureColorHex": "#CC0000",
+  "NameOrder": "FirstNameFirst",
+  "PoliticalSystems": [],
+  "PoliticalSystemProbabilities": {
+    "Kingdom": 20.0,
+    "Empire": 85.0,
+    "Federation": 75.0,
+    "Republic": 60.0,
+    "Tribal": 10.0,
+    "Theocracy": 40.0
+  },
+  "EthnicAttributeProbabilities": {
+    "FishAndHunting": 50.0,
+    "Agriculture": 20.0,
+    "Nomadic": 30.0,
+    "Maritime": 10.0,
+    "Commercial": 30.0
+  },
+  "TraitProbabilities": {
+    "FightToTheEnd": 90.0,
+    "StrengthenCore": 85.0,
+    "ManifestDestiny": 60.0,
+    "BullyTheWeak": 30.0,
+    "DefyTheStrong": 95.0,
+    "TotalWar": 80.0,
+    "WellTrained": 100.0,
+    "CoreDefense": 95.0,
+    "CavalryTradition": 40.0,
+    "HomelandDefense": 100.0,
+    "Conqueror": 70.0,
+    "SiegeCapture": 85.0,
+    "FieldCombatElite": 90.0
+  },
+  "CultureDescriptionTranslations": [
+    "红冬联邦学园是一所位于严寒地带的军事学院，以严格的纪律和强大的战斗力著称。学生们在冰天雪地中接受训练，培养出坚韧不拔的意志和团队精神。227特别班和狂猎等部队展现出卓越的战术素养。",
+    "Red Winter Federal Academy is a military school located in the frigid zone, renowned for strict discipline and formidable combat capabilities. Students train in ice and snow, cultivating indomitable will and team spirit. Units like Class 227 and Wild Hunt demonstrate exceptional tactical prowess.",
+    "紅冬聯邦學園是一所位於嚴寒地帶的軍事學院，以嚴格的紀律和強大的戰鬥力著稱。學生們在冰天雪地中接受訓練，培養出堅韌不拔的意志和團隊精神。227特別班和狂獵等部隊展現出卓越的戰術素養。",
+    "Академия Красная Зима — это военная школа, расположенная в холодной зоне, известная строгой дисциплиной и грозными боевыми способностями. Студенты тренируются среди льда и снега, развивая несгибаемую волю и командный дух. Подразделения, такие как Класс 227 и Дикая Охота, демонстрируют исключительное тактическое мастерство.",
+    "La Academia Federal Red Winter es una escuela militar ubicada en la zona frígida, reconocida por su estricta disciplina y formidables capacidades de combate. Los estudiantes entrenan en hielo y nieve, cultivando una voluntad indomable y espíritu de equipo. Unidades como la Clase 227 y Wild Hunt demuestran una destreza táctica excepcional.",
+    "A Academia Federal Red Winter é uma escola militar localizada na zona frígida, renomada por sua disciplina estrita e capacidades de combate formidáveis. Os estudantes treinam em gelo e neve, cultivando vontade indomável e espírito de equipe. Unidades como a Classe 227 e Wild Hunt demonstram destreza tática excepcional.",
+    "Die Red Winter Federal Academy ist eine Militärschule in der Kältezone, bekannt für strenge Disziplin und beeindruckende Kampffähigkeiten. Die Schüler trainieren in Eis und Schnee und entwickeln unbeugsamen Willen und Teamgeist. Einheiten wie Klasse 227 und Wild Hunt zeigen außergewöhnliches taktisches Können.",
+    "レッドウィンター連邦学園は極寒地帯に位置する軍事学校であり、厳格な規律と強力な戦闘能力で知られている。生徒たちは氷と雪の中で訓練を受け、不屈の意志とチームスピリットを培っている。227特別学級やワイルドハントなどの部隊は卓越した戦術能力を示している。",
+    "L'Académie Fédérale Red Winter est une école militaire située dans la zone froide, réputée pour sa discipline stricte et ses formidables capacités de combat. Les étudiants s'entraînent dans la glace et la neige, cultivant une volonté indomptable et un esprit d'équipe. Des unités comme la Classe 227 et Wild Hunt démontrent une prouesse tactique exceptionnelle.",
+    "Akademia Federalna Red Winter to szkoła wojskowa zlokalizowana w strefie mroźnej, znana z surowej dyscypliny i groźnych zdolności bojowych. Studenci trenują w lodzie i śniegu, kultywując niezłomną wolę i ducha zespołu. Jednostki takie jak Klasa 227 i Wild Hunt demonstrują wyjątkową sprawność taktyczną.",
+    "La Academia Federal Red Winter es una escuela militar ubicada en la zona frígida, reconocida por su estricta disciplina y formidables capacidades de combate. Los estudiantes entrenan en hielo y nieve, cultivando una voluntad indomable y espíritu de equipo. Unidades como la Clase 227 y Wild Hunt demuestran una destreza táctica excepcional.",
+    "A Academia Federal Red Winter é uma escola militar localizada na zona frígida, de renome pela sua disciplina estrita e capacidades de combate formidáveis. Os estudantes treinam em gelo e neve, cultivando vontade indomável e espírito de equipa. Unidades como a Classe 227 e Wild Hunt demonstram destreza tática excepcional.",
+    "레드윈터 연방학원은 극한 추위 지대에 위치한 군사 학교로, 엄격한 규율과 강력한 전투 능력으로 유명합니다. 학생들은 얼음과 눈 속에서 훈련을 받으며 불굴의 의지와 팀 정신을 키웁니다. 227특별학급과 와일드헌트 같은 부대는 뛰어난 전술적 능력을 보여줍니다.",
+    "Red Winter Federal Akademisi, katı disiplin ve müthiş savaş yetenekleriyle tanınan, soğuk bölgede bulunan bir askeri okuldur. Öğrenciler buz ve karda eğitim alarak yılmaz irade ve takım ruhu geliştirirler. 227 Sınıfı ve Wild Hunt gibi birlikler olağanüstü taktik beceri sergiler."
+  ],
+  "MapCultureTranslations": [
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive"
+  ]
+}

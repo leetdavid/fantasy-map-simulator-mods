@@ -1,0 +1,67 @@
+{
+  "CultureColorHex": "#FF6B35",
+  "NameOrder": "FirstNameFirst",
+  "PoliticalSystems": [],
+  "PoliticalSystemProbabilities": {
+    "Kingdom": 60.0,
+    "Empire": 80.0,
+    "Federation": 40.0,
+    "Republic": 30.0,
+    "Tribal": 20.0,
+    "Theocracy": 50.0
+  },
+  "EthnicAttributeProbabilities": {
+    "FishAndHunting": 40.0,
+    "Agriculture": 70.0,
+    "Nomadic": 30.0,
+    "Maritime": 50.0,
+    "Commercial": 80.0
+  },
+  "TraitProbabilities": {
+    "FightToTheEnd": 75.0,
+    "StrengthenCore": 85.0,
+    "ManifestDestiny": 70.0,
+    "BullyTheWeak": 30.0,
+    "DefyTheStrong": 65.0,
+    "TotalWar": 50.0,
+    "WellTrained": 80.0,
+    "CoreDefense": 85.0,
+    "CavalryTradition": 60.0,
+    "HomelandDefense": 90.0,
+    "Conqueror": 70.0,
+    "SiegeCapture": 75.0,
+    "FieldCombatElite": 75.0
+  },
+  "CultureDescriptionTranslations": [
+    "山海经是一所以中华古代神话和传说为基础的学园，以其深厚的文化底蕴和神秘的东方智慧而闻名。学园特勤队与神话研究会共同守护着这个充满神话色彩的学府。",
+    "Shanhaijing is an academy based on ancient Chinese mythology and legends, renowned for its profound cultural heritage and mysterious Eastern wisdom. The Academy Squad and Mythological Research Society jointly protect this institution filled with mythological elements.",
+    "山海經是一所以中華古代神話和傳說為基礎的學園，以其深厚的文化底蘊和神秘的東方智慧而聞名。學園特勤隊與神話研究會共同守護著這個充滿神話色彩的學府。",
+    "Шаньхайцзин — это академия, основанная на древней китайской мифологии и легендах, известная своим глубоким культурным наследием и таинственной восточной мудростью. Академический отряд и Общество мифологических исследований совместно защищают это учреждение, наполненное мифологическими элементами.",
+    "Shanhaijing es una academia basada en la mitología y leyendas de la antigua China, conocida por su profundo patrimonio cultural y su misteriosa sabiduría oriental. El Escuadrón de la Academia y la Sociedad de Investigación Mitológica protegen conjuntamente esta institución llena de elementos mitológicos.",
+    "Shanhaijing é uma academia baseada na mitologia e lendas da China antiga, conhecida por seu profundo patrimônio cultural e sua misteriosa sabedoria oriental. O Esquadrão da Academia e a Sociedade de Pesquisa Mitológica protegem conjuntamente esta instituição cheia de elementos mitológicos.",
+    "Shanhaijing ist eine Akademie, die auf der altchinesischen Mythologie und Legenden basiert, bekannt für ihr tiefes kulturelles Erbe und ihre geheimnisvolle östliche Weisheit. Das Akademie-Squad und die Mythologische Forschungsgesellschaft schützen gemeinsam diese mit mythologischen Elementen gefüllte Institution.",
+    "山海経は古代中国の神話と伝説を基盤とする学園であり、深い文化的遺産と神秘的な東洋の知恵で知られています。学園特勤隊と神話研究会が共同で、神話的要素に満ちたこの学府を守っています。",
+    "Shanhaijing est une académie basée sur la mythologie et les légendes de la Chine ancienne, connue pour son profond patrimoine culturel et sa sagesse orientale mystérieuse. L'Escouade de l'Académie et la Société de Recherche Mythologique protègent conjointement cette institution remplie d'éléments mythologiques.",
+    "Shanhaijing to akademia oparta na starożytnej chińskiej mitologii i legendach, znana z głębokiego dziedzictwa kulturowego i tajemniczej wschodniej mądrości. Oddział Akademicki i Towarzystwo Badań Mitologicznych wspólnie chronią tę instytucję wypełnioną mitologicznymi elementami.",
+    "Shanhaijing es una academia basada en la mitología y leyendas de la antigua China, conocida por su profundo patrimonio cultural y su misteriosa sabiduría oriental. El Escuadrón de la Academia y la Sociedad de Investigación Mitológica protegen conjuntamente esta institución llena de elementos mitológicos.",
+    "Shanhaijing é uma academia baseada na mitologia e lendas da China antiga, conhecida por seu profundo patrimônio cultural e sua misteriosa sabedoria oriental. O Esquadrão da Academia e a Sociedade de Pesquisa Mitológica protegem conjuntamente esta instituição cheia de elementos mitológicos.",
+    "산해경은 고대 중국 신화와 전설을 기반으로 한 학원으로, 깊은 문화적 유산과 신비로운 동양의 지혜로 유명합니다. 학원특근대와 신화연구회가 공동으로 신화적 요소로 가득한 이 학부를 지키고 있습니다.",
+    "Shanhaijing, eski Çin mitolojisi ve efsanelerine dayanan, derin kültürel mirası ve gizemli Doğu bilgeliğiyle tanınan bir akademidir. Akademi Timi ve Mitolojik Araştırma Derneği, mitolojik öğelerle dolu bu kurumu birlikte korumaktadır."
+  ],
+  "MapCultureTranslations": [
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive"
+  ]
+}

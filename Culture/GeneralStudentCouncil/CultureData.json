@@ -1,0 +1,67 @@
+{
+  "CultureColorHex": "#0066CC",
+  "NameOrder": "FirstNameFirst",
+  "PoliticalSystems": [],
+  "PoliticalSystemProbabilities": {
+    "Kingdom": 30.0,
+    "Empire": 40.0,
+    "Federation": 90.0,
+    "Republic": 85.0,
+    "Tribal": 10.0,
+    "Theocracy": 20.0
+  },
+  "EthnicAttributeProbabilities": {
+    "FishAndHunting": 20.0,
+    "Agriculture": 40.0,
+    "Nomadic": 15.0,
+    "Maritime": 50.0,
+    "Commercial": 90.0
+  },
+  "TraitProbabilities": {
+    "FightToTheEnd": 60.0,
+    "StrengthenCore": 75.0,
+    "ManifestDestiny": 50.0,
+    "BullyTheWeak": 15.0,
+    "DefyTheStrong": 40.0,
+    "TotalWar": 30.0,
+    "WellTrained": 95.0,
+    "CoreDefense": 80.0,
+    "CavalryTradition": 40.0,
+    "HomelandDefense": 85.0,
+    "Conqueror": 35.0,
+    "SiegeCapture": 60.0,
+    "FieldCombatElite": 70.0
+  },
+  "CultureDescriptionTranslations": [
+    "联邦学生会是基沃托斯的中央管理机构，由夏莱、特别响应队和女武神警察学院组成。致力于维护秩序、执行法律和保护所有学园的和平与安全。",
+    "The Federal Student Council is the central governing body of Kivotos, composed of SCHALE, the Special Response Team, and Valkyrie Police Academy. Dedicated to maintaining order, enforcing law, and protecting the peace and security of all academies.",
+    "聯邦學生會是基沃托斯的中央管理機構，由夏萊、特別響應隊和女武神警察學院組成。致力於維護秩序、執行法律和保護所有學園的和平與安全。",
+    "Федеральный студенческий совет — это центральный руководящий орган Кивотоса, состоящий из ШАЛЕ, Специальной оперативной группы и Полицейской академии Валькирия. Посвящен поддержанию порядка, обеспечению соблюдения закона и защите мира и безопасности всех академий.",
+    "El Consejo Estudiantil Federal es el órgano central de gobierno de Kivotos, compuesto por SCHALE, el Equipo de Respuesta Especial y la Academia de Policía Valkyrie. Dedicado a mantener el orden, hacer cumplir la ley y proteger la paz y seguridad de todas las academias.",
+    "O Conselho Estudantil Federal é o órgão central de governo de Kivotos, composto por SCHALE, a Equipe de Resposta Especial e a Academia de Polícia Valkyrie. Dedicado a manter a ordem, fazer cumprir a lei e proteger a paz e segurança de todas as academias.",
+    "Der Föderale Studentenrat ist das zentrale Leitungsorgan von Kivotos, bestehend aus SCHALE, dem Spezialeinsatzteam und der Walküre-Polizeiakademie. Dem Erhalt der Ordnung, der Durchsetzung des Gesetzes und dem Schutz des Friedens und der Sicherheit aller Akademien gewidmet.",
+    "連邦生徒会はキボトスの中央統治機関であり、シャーレ、特別対応班、ヴァルキューレ警察学校で構成されています。秩序の維持、法の執行、すべての学園の平和と安全の保護に専念しています。",
+    "Le Conseil Étudiant Fédéral est l'organe central de gouvernement de Kivotos, composé de SCHALE, de l'Équipe de Réponse Spéciale et de l'Académie de Police Valkyrie. Dédié au maintien de l'ordre, à l'application de la loi et à la protection de la paix et de la sécurité de toutes les académies.",
+    "Federalna Rada Studentów jest centralnym organem rządzącym Kivotos, składającym się z SCHALE, Specjalnego Zespołu Reagowania i Akademii Policyjnej Walkiria. Poświęcona utrzymywaniu porządku, egzekwowaniu prawa i ochronie pokoju i bezpieczeństwa wszystkich akademii.",
+    "El Consejo Estudiantil Federal es el órgano central de gobierno de Kivotos, compuesto por SCHALE, el Equipo de Respuesta Especial y la Academia de Policía Valkyrie. Dedicado a mantener el orden, hacer cumplir la ley y proteger la paz y seguridad de todas las academias.",
+    "O Conselho Estudantil Federal é o órgão central de governo de Kivotos, composto por SCHALE, a Equipe de Resposta Especial e a Academia de Polícia Valkyrie. Dedicado a manter a ordem, fazer cumprir a lei e proteger a paz e segurança de todas as academias.",
+    "연방학생회는 키보토스의 중앙 통치 기구로, 샬레, 특별대응반, 발키리경찰학교로 구성됩니다. 질서 유지, 법 집행, 모든 학원의 평화와 안전 보호에 전념하고 있습니다.",
+    "Federal Öğrenci Konseyi, SCHALE, Özel Müdahale Ekibi ve Valkyrie Polis Akademisi'nden oluşan Kivotos'un merkezi yönetim organıdır. Düzeni korumaya, yasayı uygulamaya ve tüm akademilerin barış ve güvenliğini korumaya adanmıştır."
+  ],
+  "MapCultureTranslations": [
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive"
+  ]
+}

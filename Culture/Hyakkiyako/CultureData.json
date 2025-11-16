@@ -1,0 +1,67 @@
+{
+  "CultureColorHex": "#9966FF",
+  "NameOrder": "FirstNameFirst",
+  "PoliticalSystems": [],
+  "PoliticalSystemProbabilities": {
+    "Kingdom": 40.0,
+    "Empire": 50.0,
+    "Federation": 30.0,
+    "Republic": 20.0,
+    "Tribal": 30.0,
+    "Theocracy": 60.0
+  },
+  "EthnicAttributeProbabilities": {
+    "FishAndHunting": 30.0,
+    "Agriculture": 50.0,
+    "Nomadic": 20.0,
+    "Maritime": 40.0,
+    "Commercial": 60.0
+  },
+  "TraitProbabilities": {
+    "FightToTheEnd": 70.0,
+    "StrengthenCore": 80.0,
+    "ManifestDestiny": 40.0,
+    "BullyTheWeak": 20.0,
+    "DefyTheStrong": 60.0,
+    "TotalWar": 30.0,
+    "WellTrained": 85.0,
+    "CoreDefense": 90.0,
+    "CavalryTradition": 30.0,
+    "HomelandDefense": 95.0,
+    "Conqueror": 40.0,
+    "SiegeCapture": 50.0,
+    "FieldCombatElite": 70.0
+  },
+  "CultureDescriptionTranslations": [
+    "百鬼夜行是一所崇尚传统与祭典文化的学园，以其隆重的节日庆典和神秘的忍术传统而闻名。祭典运营委员会与忍术研究部共同维护着这个充满东方神韵的学园。",
+    "Hyakkiyako is an academy that reveres tradition and festival culture, renowned for its grand celebrations and mysterious ninjutsu traditions. The Festival Operations Department and Ninjutsu Research Club jointly maintain this academy filled with Eastern mystique.",
+    "百鬼夜行是一所崇尚傳統與祭典文化的學園，以其隆重的節日慶典和神秘的忍術傳統而聞名。祭典運營委員會與忍術研究部共同維護著這個充滿東方神韻的學園。",
+    "Хяккияко — это академия, почитающая традиции и фестивальную культуру, известная своими грандиозными праздниками и загадочными традициями ниндзюцу. Департамент организации фестивалей и Клуб исследования ниндзюцу совместно поддерживают эту академию, наполненную восточной мистикой.",
+    "Hyakkiyako es una academia que venera la tradición y la cultura festiva, conocida por sus grandes celebraciones y misteriosas tradiciones de ninjutsu. El Departamento de Operaciones Festivas y el Club de Investigación de Ninjutsu mantienen conjuntamente esta academia llena de mística oriental.",
+    "Hyakkiyako é uma academia que reverencia a tradição e a cultura festiva, conhecida por suas grandes celebrações e misteriosas tradições de ninjutsu. O Departamento de Operações Festivas e o Clube de Pesquisa de Ninjutsu mantêm conjuntamente esta academia cheia de misticismo oriental.",
+    "Hyakkiyako ist eine Akademie, die Tradition und Festivalkultur verehrt, bekannt für ihre großen Feierlichkeiten und geheimnisvollen Ninjutsu-Traditionen. Die Festivaloperationsabteilung und der Ninjutsu-Forschungsclub erhalten gemeinsam diese von östlicher Mystik erfüllte Akademie.",
+    "百鬼夜行は伝統と祭典文化を尊ぶ学園であり、盛大な祝祭と神秘的な忍術の伝統で知られています。祭典運営委員会と忍術研究部が共同で、東洋の神秘に満ちたこの学園を維持しています。",
+    "Hyakkiyako est une académie qui vénère la tradition et la culture festive, connue pour ses grandes célébrations et ses mystérieuses traditions de ninjutsu. Le Département des Opérations Festives et le Club de Recherche en Ninjutsu maintiennent conjointement cette académie remplie de mystique orientale.",
+    "Hyakkiyako to akademia czcząca tradycję i kulturę festiwalową, znana z wielkich uroczystości i tajemniczych tradycji ninjutsu. Wydział Operacji Festiwalowych i Klub Badań nad Ninjutsu wspólnie utrzymują tę akademię przepełnioną wschodnią mistyką.",
+    "Hyakkiyako es una academia que venera la tradición y la cultura festiva, conocida por sus grandes celebraciones y misteriosas tradiciones de ninjutsu. El Departamento de Operaciones Festivas y el Club de Investigación de Ninjutsu mantienen conjuntamente esta academia llena de mística oriental.",
+    "Hyakkiyako é uma academia que reverencia a tradição e a cultura festiva, conhecida por suas grandes celebrações e misteriosas tradições de ninjutsu. O Departamento de Operações Festivas e o Clube de Pesquisa de Ninjutsu mantêm conjuntamente esta academia cheia de misticismo oriental.",
+    "백귀야행은 전통과 제전 문화를 숭상하는 학원으로, 성대한 축제와 신비로운 인술 전통으로 유명합니다. 제전운영위원회와 인술연구부가 공동으로 동양의 신비로 가득한 이 학원을 유지하고 있습니다.",
+    "Hyakkiyako, gelenek ve festival kültürünü onurlandıran, büyük kutlamaları ve gizemli ninjutsu gelenekleriyle tanınan bir akademidir. Festival Operasyonları Departmanı ve Ninjutsu Araştırma Kulübü, doğu mistiğiyle dolu bu akademiyi birlikte korumaktadır."
+  ],
+  "MapCultureTranslations": [
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive",
+    "Blue Archive"
+  ]
+}
