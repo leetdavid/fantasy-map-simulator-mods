@@ -1,6 +1,6 @@
 {
   "CultureColorHex": "#CDD6FC",
-  "NameOrder": "LastNameFirst",
+  "NameOrder": "FirstNameFirst",
   "PoliticalSystems": [],
   "PoliticalSystemProbabilities": {
     "Kingdom": 60.0,
@@ -11,25 +11,25 @@
     "Theocracy": 50.0
   },
   "EthnicAttributeProbabilities": {
-    "FishAndHunting": 10.0,
+    "FishAndHunting": 20.0,
     "Agriculture": 80.0,
-    "Nomadic": 10.0,
+    "Nomadic": 50.0,
     "Maritime": 50.0,
     "Commercial": 60.0
   },
   "TraitProbabilities": {
-    "FightToTheEnd": 70.0,
+    "FightToTheEnd": 90.0,
     "StrengthenCore": 80.0,
-    "ManifestDestiny": 25.0,
-    "BullyTheWeak": 30.0,
-    "DefyTheStrong": 75.0,
+    "ManifestDestiny": 30.0,
+    "BullyTheWeak": 20.0,
+    "DefyTheStrong": 90.0,
     "TotalWar": 30.0,
-    "WellTrained": 85.0,
+    "WellTrained": 80.0,
     "CoreDefense": 90.0,
-    "CavalryTradition": 15.0,
+    "CavalryTradition": 20.0,
     "HomelandDefense": 100.0,
-    "Conqueror": 20.0,
-    "SiegeCapture": 20.0,
+    "Conqueror": 25.0,
+    "SiegeCapture": 50.0,
     "FieldCombatElite": 70.0
   },
   "CultureDescriptionTranslations": [

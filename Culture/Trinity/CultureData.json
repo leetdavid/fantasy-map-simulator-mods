@@ -3,33 +3,33 @@
   "NameOrder": "FirstNameFirst",
   "PoliticalSystems": [],
   "PoliticalSystemProbabilities": {
-    "Kingdom": 70.0,
-    "Empire": 30.0,
-    "Federation": 40.0,
-    "Republic": 30.0,
+    "Kingdom": 60.0,
+    "Empire": 50.0,
+    "Federation": 30.0,
+    "Republic": 20.0,
     "Tribal": 1.0,
-    "Theocracy": 80.0
+    "Theocracy": 60.0
   },
   "EthnicAttributeProbabilities": {
     "FishAndHunting": 5.0,
     "Agriculture": 70.0,
     "Nomadic": 5.0,
-    "Maritime": 30.0,
-    "Commercial": 50.0
+    "Maritime": 60.0,
+    "Commercial": 70.0
   },
   "TraitProbabilities": {
-    "FightToTheEnd": 60.0,
-    "StrengthenCore": 75.0,
-    "ManifestDestiny": 30.0,
+    "FightToTheEnd": 30.0,
+    "StrengthenCore": 80.0,
+    "ManifestDestiny": 60.0,
     "BullyTheWeak": 20.0,
     "DefyTheStrong": 50.0,
     "TotalWar": 25.0,
     "WellTrained": 80.0,
-    "CoreDefense": 85.0,
-    "CavalryTradition": 20.0,
+    "CoreDefense": 90.0,
+    "CavalryTradition": 70.0,
     "HomelandDefense": 90.0,
-    "Conqueror": 15.0,
-    "SiegeCapture": 15.0,
+    "Conqueror": 25.0,
+    "SiegeCapture": 25.0,
     "FieldCombatElite": 65.0
   },
   "CultureDescriptionTranslations": [
